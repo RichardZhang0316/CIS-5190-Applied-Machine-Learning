@@ -90,7 +90,7 @@ def grader_serialize(obj):
 
 #PLEASE ENSURE YOUR PENN-ID IS ENTERED CORRECTLY. IF NOT, THE AUTOGRADER WON'T KNOW WHO
 #TO ASSIGN POINTS TO YOU IN OUR BACKEND
-STUDENT_ID = 19331985       # YOUR PENN-ID GOES HERE AS AN INTEGER#
+STUDENT_ID =  # YOUR PENN-ID GOES HERE AS AN INTEGER#
 
 """Run the following cell to initialize the autograder. This autograder will let you submit your code directly from this notebook and immidiately get a score.
 
